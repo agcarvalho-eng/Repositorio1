@@ -1,0 +1,11 @@
+
+
+Fez alteração?
+
+git add . (adiciona todos os arquivos alterados)
+git commit -m "Descrição da alteração"
+git push origin main (envia atualizações para o repositorio remoto)
+
+
+Para receber atualização do repositorio para local:
+git pull
